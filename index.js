@@ -2,7 +2,7 @@
 const btnNuevaDescripcion = document.getElementById('btndescripcion');
 const notas = document.getElementById('notas');
 
-// Evento para agregar nuevas notas cuando se hace clic en el botón
+#Eventoparaagregarnuevasnotascuandoehaceclicenelotón
 btnNuevaDescripcion.addEventListener('click', () => {
     // Crear un nuevo contenedor para la nota
     const nuevaNota = document.createElement('div');
